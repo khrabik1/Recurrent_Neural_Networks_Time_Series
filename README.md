@@ -1,4 +1,4 @@
-# Time_Series
+# Recurrent_Neural_Networks_Time_Series
 Using Time Series &amp; LSTM to predict temperature
 
 
